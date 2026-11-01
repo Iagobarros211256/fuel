@@ -1,0 +1,15 @@
+# Go
+/backend/bin/
+*.exe
+*.test
+*.out
+
+# env
+.env
+.env.*
+!.env.example
+
+# editores / SO
+.DS_Store
+.idea/
+.vscode/
