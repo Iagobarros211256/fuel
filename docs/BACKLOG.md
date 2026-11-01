@@ -2,6 +2,9 @@
 
 ## Sprint 1 — Postos próximos (fase 1) ✅ em andamento
 
+> 2026-11-01: testado num Android real via Expo Go com o provider fake — mapa, lista,
+> chips de raio e origem/idade dos preços funcionando.
+
 - [x] S1-01 Backend: `GET /healthz`
 - [x] S1-02 Backend: `GET /v1/stations/nearby?lat&lng&radius` com distância (haversine) e ordenação
 - [x] S1-03 Backend: cliente do Places API (New) `places:searchNearby` com field mask
@@ -12,6 +15,7 @@
 - [x] S1-08 App: mapa com marcadores + lista por distância
 - [x] S1-09 App: abrir rota no app de mapas ao tocar no posto
 - [ ] S1-10 Testar com chave real em Fortaleza e anotar se `fuelOptions` vem preenchido
+- [ ] S1-11 Tema: mapa segue o modo escuro do sistema, lista fica clara — unificar
 
 ## Sprint 2 — Preços da ANP (fase 2)
 
