@@ -7,7 +7,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/Iagobarros211256/abastece/backend/internal/station"
+	"github.com/Iagobarros211256/fuel/backend/internal/station"
 )
 
 // Provider devolve sempre os mesmos 8 postos espalhados no raio pedido.

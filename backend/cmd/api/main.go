@@ -1,4 +1,4 @@
-// Comando api sobe o backend do Abastece.
+// Comando api sobe o backend do Fuel.
 package main
 
 import (
@@ -11,10 +11,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Iagobarros211256/abastece/backend/internal/fake"
-	"github.com/Iagobarros211256/abastece/backend/internal/httpapi"
-	"github.com/Iagobarros211256/abastece/backend/internal/places"
-	"github.com/Iagobarros211256/abastece/backend/internal/station"
+	"github.com/Iagobarros211256/fuel/backend/internal/fake"
+	"github.com/Iagobarros211256/fuel/backend/internal/httpapi"
+	"github.com/Iagobarros211256/fuel/backend/internal/places"
+	"github.com/Iagobarros211256/fuel/backend/internal/station"
 )
 
 func main() {

@@ -7,8 +7,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/Iagobarros211256/abastece/backend/internal/cache"
-	"github.com/Iagobarros211256/abastece/backend/internal/geo"
+	"github.com/Iagobarros211256/fuel/backend/internal/cache"
+	"github.com/Iagobarros211256/fuel/backend/internal/geo"
 )
 
 // Combustíveis normalizados usados pelo app.

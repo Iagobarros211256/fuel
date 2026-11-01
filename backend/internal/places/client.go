@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Iagobarros211256/abastece/backend/internal/station"
+	"github.com/Iagobarros211256/fuel/backend/internal/station"
 )
 
 const defaultBaseURL = "https://places.googleapis.com/v1"

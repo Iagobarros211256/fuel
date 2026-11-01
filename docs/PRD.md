@@ -1,6 +1,6 @@
-# PRD — Abastece
+# PRD — Fuel
 
-> Nome provisório. Projeto da trilha "me desafiando".
+> O nome vem da música "Fuel", do Metallica. Projeto da trilha "me desafiando".
 
 ## 1. Problema
 

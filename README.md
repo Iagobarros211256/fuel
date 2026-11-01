@@ -1,4 +1,4 @@
-# Abastece
+# Fuel
 
 App que encontra postos de combustível perto de você e (em breve) mostra os 5 mais
 baratos, com camadas de radares, semáforos e hospitais.
@@ -6,7 +6,7 @@ baratos, com camadas de radares, semáforos e hospitais.
 Projeto de estudo — trilha "me desafiando".
 
 ```
-abastece/
+fuel/
 ├── backend/   API em Go (stdlib) — integra Google Places, ANP e OpenStreetMap
 ├── app/       App mobile em Expo (React Native + TypeScript)
 └── docs/      PRD, ADRs e backlog

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Iagobarros211256/abastece/backend/internal/station"
+	"github.com/Iagobarros211256/fuel/backend/internal/station"
 )
 
 const respostaExemplo = `{

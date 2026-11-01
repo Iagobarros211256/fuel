@@ -1,17 +1,17 @@
 {
   "expo": {
-    "name": "Abastece",
-    "slug": "abastece",
+    "name": "Fuel",
+    "slug": "fuel",
     "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.iagobarros.abastece"
+      "bundleIdentifier": "com.iagobarros.fuel"
     },
     "android": {
-      "package": "com.iagobarros.abastece",
+      "package": "com.iagobarros.fuel",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -24,7 +24,7 @@
       [
         "expo-location",
         {
-          "locationWhenInUsePermission": "O Abastece usa sua localização para encontrar postos perto de você."
+          "locationWhenInUsePermission": "O Fuel usa sua localização para encontrar postos perto de você."
         }
       ]
     ]
